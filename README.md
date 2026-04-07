@@ -27,6 +27,4 @@ Aplikasi mobile sederhana yang dibuat menggunakan **React Native** dan **Expo**.
 
 ## 🛠️ Cara Menjalankan Lokal
 
-1. **Clone repository ini:**
-   ```bash
-   mikir sendiri
+mikir sendiri
