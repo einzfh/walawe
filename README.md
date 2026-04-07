@@ -1,14 +1,29 @@
-# TechGears Catalog UI 📦
-Project praktikum Minggu 3 - Flexbox Mastery.
+# 📱 [Nama Aplikasi Kamu]
 
-## 📸 Preview
-![App Screen]<img width="483" height="298" alt="Screenshot 2026-04-08 001556" src="https://github.com/user-attachments/assets/b7dc345c-9d85-46d6-89eb-fe2e41146902" />
+[![Expo Go](https://shields.io)](https://expo.dev)
+[![React Native](https://shields.io)](https://reactnative.dev)
 
+Aplikasi mobile sederhana yang dibuat menggunakan **React Native** dan **Expo**. Proyek ini dirancang untuk makan makan.
 
-## 🛠️ Features
-- Responsive Grid Layout
-- Absolute Positioned Sale Badge
-- Modern Dark UI Theme
+---
 
-## 🔗 Live Preview
-[Cek di Expo Snack]https://snack.expo.dev/@einz/joyous-green-pizza
+## ✨ Fitur Utama
+- 🚀 **Performa Cepat** dengan Expo SDK terbaru.
+- 🎨 **UI Modern** menggunakan komponen React Native.
+- 📱 **Layar Responsif** untuk berbagai ukuran smartphone.
+- 🔗 **Navigasi Mulus** (jika menggunakan React Navigation).
+
+## 📸 Screenshots
+
+| Beranda | Fitur Utama |
+|---|---|
+| <img src="https://placeholder.com" width="200"> | <img src="https://placeholder.com" width="200"> |
+
+---
+
+## 🛠️ Cara Menjalankan Lokal
+
+1. **Clone repository ini:**
+   ```bash
+   git clone https://github.com
+   cd walawe
